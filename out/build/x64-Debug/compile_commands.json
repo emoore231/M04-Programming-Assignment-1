@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/source/M04-Programming-Assignment-1/out/build/x64-Debug",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.39.33428\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IC:\\source\\M04-Programming-Assignment-1\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -O0 /FoCMakeFiles\\main.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\source\\M04-Programming-Assignment-1\\src\\main.cpp",
+  "file": "C:\\source\\M04-Programming-Assignment-1\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+}
+]
